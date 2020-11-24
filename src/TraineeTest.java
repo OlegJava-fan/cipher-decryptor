@@ -16,7 +16,7 @@ public class TraineeTest {
                     System.out.println("Your phrase is empty or wrong iteration");
 
                 } else {
-                    System.out.println("Your encrypt phrase: " + encrypt + " in the " + info.getIteration() + " iteration");
+                    System.out.println("Your encrypt phrase:" + encrypt + " in the " + info.getIteration() + "iteration");
                     System.out.println("Your phrase after decrypt: " + decrypt);
                 }
                 break;
